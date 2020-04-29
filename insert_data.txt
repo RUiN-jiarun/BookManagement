@@ -1,0 +1,8 @@
+( book_no_1, Computer Science, Computer Architecture, China Machine Press, 2004, AA, 90.00, 2 )
+( book_no_2, Computer Science, Database System Concepts, China Machine Press, 2009, AS, 99.00, 3 )
+( book_no_3, Computer Science, Data Structure, ZJU Press, 2005, CYLL, 45.00, 1 )
+( book_no_4, Computer Science, Thinking in C, A Press, 2000, BE, 50.00, 4 )
+( book_no_5, Computer Science, Python, A Press, 2015, CC, 50.00, 2 )
+( book_no_6, Literature, Gone With the Wind, B Press, 2004, MM, 60.00, 3 )
+( book_no_7, Literature, A Message to Garcia, C Press, 2010, AH, 20.00, 5 )
+( book_no_8, Literature, Untitled, A Press, 2004, MK, 63.00, 3 )
